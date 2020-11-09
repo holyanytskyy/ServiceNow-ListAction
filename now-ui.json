@@ -1,0 +1,24 @@
+{
+	"components": {
+	    "x-420475-incident-listaction": {
+	        "innerComponents": [
+				"now-button",
+				"now-heading",
+				"now-loader",
+				"now-card",
+				"now-modal",
+				"now-label-value",
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "incidents-withaction",
+				"icon": "chart-forecast-fill",
+				"description": "List of Incidents"
+			  }
+	    }
+	},
+	"scopeName": "x_420475_test_in_2"
+}
